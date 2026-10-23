@@ -1,0 +1,26 @@
+about: |
+  Backend/systems dev, strongest in Go and Rust. Comfortable with
+  concurrency, networking, CLIs. Prefer issues with a clear repro
+  or spec over open-ended design discussions.
+
+languages:
+  strong: [go, rust, solidity, bash]
+  ok: [python, typescript, java]
+
+labels_wanted: [good first issue, help wanted, bug, enhancement]
+skip_repos: []
+
+interests:
+  - CLI tools and developer tooling
+  - networking, protocols
+  - compilers / parsers
+  - web3
+  - scraping
+avoid:
+  - frontend/CSS work
+  - docs-only or typo issues
+  - issues needing domain knowledge (finance, biology)
+
+max_hours_per_issue: 6
+max_issue_age_hours: 48
+min_repo_stars: 50

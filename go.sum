@@ -1,0 +1,6 @@
+github.com/google/go-github/v93 v93.0.0 h1:qElXPLv+XbSz1qrLdWyb0t3gSYGsWBTzr9T4/PZTCfk=
+github.com/google/go-github/v93 v93.0.0/go.mod h1:l8I3rt4/mdjANKpg4Y84LEy9HJQCetUkZ8WTl2bPU8M=
+github.com/nikoksr/notify v1.6.0 h1:H9pyvNyo4/47vn7uPTBbb+ld6Y/KmpXo9Ghf8cGqAlU=
+github.com/nikoksr/notify v1.6.0/go.mod h1:GBrx8S2GI0ZtXdobxNmXJjPJN4P6qXbjPW78zlLSg6s=
+golang.org/x/sync v0.24.0 h1:iqiDrGoDgyuvAKrhLQthUEzU/R378N78gXbBjxed7oA=
+golang.org/x/sync v0.24.0/go.mod h1:sUUOizhqBxiL6pEWpqNLUiaJn1ShEbZ6BBqskPbjZm0=
